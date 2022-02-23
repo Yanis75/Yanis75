@@ -1,33 +1,23 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Code-Oz</h1>
-<h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
+<h1 align="center">Bonjour Je suis Yanis </h1>
+<h3 align="center">Un développeur front-end passionné </h3>
 
-<h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
+<h3 align="center">Je suis développeur web et je fais des applications,je suis étudiant en 2 eme année de BTS SIO</h3>
 
-<h3 align="center">My latest project 👨‍💻</h3>
 
-<h4 align="center"> - 📖 <a href="https://codeoz-blog.com/" target="_blank" rel="noopener" > My blog </a> </h4>
 
-<h4 align="center"> - 📹 <a href="https://ccbox-tv.herokuapp.com/" target="_blank" rel="noopener" > CacaboxTV </a> (Netflix youtube channel for the Youtube Channel named Cacabox) </h4>
+<h4 align="center"> - 📖 <a href="https://sites.google.com/view/yanisallouani/accueil" target="_blank" rel="noopener" > Mon Portfolio </a> </h4>
 
-<h4 align="center"> - �🛠 <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader </a> </h4>
 
-<h4 align="center"> - 🎧 <a href="https://www.chillflix.art/" target="_blank" rel="noopener" > Chillflix - Radio Chill Lofi </a> </h4>
 
-<h4 align="center"> - 🤖 <a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener">
-Twitch plus</a> (Chrome extension that improve your experience on twitch) </h4>
 
-<h4 align="center"> - 🔌 <a href="https://marketplace.visualstudio.com/items?itemName=code-oz.what-is-operator-javascript" target="_blank" rel="noopener">
-What is this operator ?</a> (Extension on vs code) </h4>
 
-<h4 align="center">
-    - 📚 I write a book named: <a href="goodies/ebook" target="_blank" rel="noopener"  style="margin-left: 5px;"> underrated skills on javascript, make the difference </a>
-</h4>
 
-<h4 align="center">
-    - 📦 npm <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noopener" > unboxjs </a> with <a href="https://github.com/cendevweb" target="_blank" rel="noopener" > @cendevweb </a> &
-    <a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener" > liftp  </a> 
-</h4>
-<p align="left">
+
+
+
+
+
+
 
 <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a> </p>
 
