@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour Je suis Yanis </h1>
 <h3 align="center">Un développeur front-end passionné </h3>
 
-<h3 align="center">Je suis développeur web et je fais des applications,je suis étudiant en 2 eme année de BTS SIO</h3>
+<h3 align="center">Je suis développeur web et je fais des applications,je suis étudiant en Licence STS</h3>
 
 
 
